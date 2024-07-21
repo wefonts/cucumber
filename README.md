@@ -1,1 +1,19 @@
 # cucumber
+오이냉체
+
+<pre>
+@font-face {
+    font-family: "cucumber";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/cucumber/cucumber.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/cucumber/cucumber.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/cucumber/cucumber.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/cucumber/cucumber.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/cucumber/cucumber.ttf") format("truetype");
+    font-display: swap;
+}
+.cucumber {
+    font-family: "cucumber";
+}
+</pre>
